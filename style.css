@@ -68,6 +68,8 @@ body{
 }
 .buttons label input:hover ~ i
 {
-    color: #8f8383;
-    transition: 1s;
+    /* color: #8f8383; */
+    opacity: 0.5;
+    transition: 0.5s;
+    /* box-shadow: none; */
 }
